@@ -10,14 +10,15 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [✔ ] The introduction section explains the background of the company and how many games remain unfunded.
+* [✔ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [✔] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [✔] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [✔] List anything else that you can get done to improve the app functionality!
+**I have add the hovering on the game section with three button.**
 
 ## Video Walkthrough
 
@@ -35,6 +36,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+**The challenging part for was tryhing to work with the functions and how to make it work for the wepage but the background section really helped me understand and making it work.**
 
 ## License
 
