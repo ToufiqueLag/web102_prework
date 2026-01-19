@@ -69,6 +69,7 @@ body {
 
 #button-container {
     text-align: center;
+    
 }
 
 button {
@@ -77,4 +78,13 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+#unfunded-btn:hover{
+    background-color: aquamarine;
+}
+#funded-btn:hover{
+    background-color: aquamarine;
+}
+#all-btn:hover{
+    background-color: aquamarine;
 }
